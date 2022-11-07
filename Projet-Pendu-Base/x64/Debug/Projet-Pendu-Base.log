@@ -1,0 +1,8 @@
+﻿  dico.c
+c:\users\formation\desktop\basependuc\projet-pendu-base\dico.c(57): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  main.c
+c:\users\formation\desktop\basependuc\projet-pendu-base\main.c(14): warning C4013: 'printf' non défini(e) ; extern retournant int pris par défaut
+  Génération de code en cours...
+  jeu-du-pendu.cpp
+c:\users\formation\desktop\basependuc\projet-pendu-base\jeu-du-pendu.cpp(105): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Projet-Pendu-Base.vcxproj -> C:\Users\formation\Desktop\BasePenduC\x64\Debug\Projet-Pendu-Base.exe
